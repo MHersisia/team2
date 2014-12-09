@@ -3,7 +3,7 @@ import java.util.*;
 
 
 /**
- * Class Attribute
+ * Class Attrib
  */
 public class Attribute {
 
